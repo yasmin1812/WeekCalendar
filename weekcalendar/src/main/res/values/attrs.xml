@@ -15,8 +15,6 @@
             <enum name="threeLetters" value="1"/>
         </attr>
         <attr name="hideNames"  format="boolean"/>
-
-        <!-- danigarciaalva -->
         <attr name="todaysDateTextColor" format="color"/>
     </declare-styleable>
 </resources>
